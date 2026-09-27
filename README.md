@@ -4,6 +4,12 @@
 
 ---
 
+## Dashboard Preview
+
+![Workforce Analytics Dashboard](powerbi/dashboard-preview.png)
+
+---
+
 ## Executive Summary
 
 This analysis provides an overview of workforce composition and salary patterns across a 48-employee workforce. The analysis identified an average salary of approximately ₹81.5K, with Information Technology having the highest headcount (9 employees) and Operations having the highest average salary (₹102K).
