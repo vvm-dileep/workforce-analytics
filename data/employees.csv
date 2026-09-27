@@ -1,0 +1,49 @@
+employee_id,employee_name,gender,age,department,designation,location,joining_date,employment_type,salary,grade,leave_balance
+EMP0001,Aarav Mehta,Male,29,Finance,Senior Analyst,Bengaluru,2021-07-12,Full-time,72000,G6,14
+EMP0002,Diya Nair,Female,31,Human Resources,HR Specialist,Mysuru,2020-03-18,Full-time,68000,G5,11
+EMP0003,Rohan Kapoor,Male,35,Information Technology,Software Engineer,Bengaluru,2019-11-04,Full-time,95000,G7,18
+EMP0004,Ananya Rao,Female,27,Operations,Operations Executive,Hubballi,2022-08-22,Full-time,54000,G4,9
+EMP0005,Vihaan Shah,Male,42,Administration,Manager,Mangaluru,2016-05-16,Full-time,118000,G8,22
+EMP0006,Meera Iyer,Female,38,Finance,Finance Manager,Bengaluru,2017-09-25,Full-time,125000,G8,16
+EMP0007,Kabir Joshi,Male,26,Information Technology,Junior Developer,Mysuru,2023-01-09,Full-time,52000,G4,12
+EMP0008,Ishita Menon,Female,33,Procurement,Procurement Analyst,Bengaluru,2020-10-19,Full-time,73000,G6,15
+EMP0009,Aditya Verma,Male,30,Legal,Legal Officer,Shivamogga,2021-02-08,Full-time,79000,G6,13
+EMP0010,Tara Kulkarni,Female,28,Marketing,Marketing Executive,Bengaluru,2022-06-13,Full-time,61000,G5,10
+EMP0011,Neil Thomas,Male,36,Information Technology,Systems Analyst,Mangaluru,2018-12-03,Full-time,102000,G7,20
+EMP0012,Saanvi Desai,Female,25,Customer Support,Support Associate,Belagavi,2024-02-12,Full-time,44000,G3,8
+EMP0013,Arjun Pillai,Male,40,Operations,Operations Manager,Bengaluru,2017-04-17,Full-time,112000,G8,19
+EMP0014,Kavya Shetty,Female,32,Finance,Accountant,Udupi,2020-07-27,Full-time,64000,G5,17
+EMP0015,Yash Malhotra,Male,34,Sales,Sales Manager,Bengaluru,2019-06-10,Full-time,108000,G8,12
+EMP0016,Nisha Bhat,Female,29,Information Technology,QA Engineer,Mysuru,2021-11-15,Full-time,71000,G6,14
+EMP0017,Reyansh Gupta,Male,24,Administration,Administrative Assistant,Tumakuru,2024-07-01,Full-time,41000,G3,7
+EMP0018,Pooja Krishnan,Female,37,Human Resources,HR Manager,Bengaluru,2018-03-26,Full-time,110000,G8,21
+EMP0019,Dhruv Sethi,Male,31,Procurement,Procurement Officer,Hassan,2020-12-14,Full-time,69000,G5,13
+EMP0020,Aditi Rao,Female,26,Marketing,Content Specialist,Bengaluru,2023-05-08,Full-time,57000,G4,16
+EMP0021,Karan Reddy,Male,39,Information Technology,Technical Lead,Bengaluru,2016-10-31,Full-time,138000,G9,18
+EMP0022,Sneha Fernandes,Female,30,Customer Support,Team Lead,Mangaluru,2021-08-09,Full-time,76000,G6,11
+EMP0023,Manav Jain,Male,28,Finance,Financial Analyst,Belagavi,2022-01-17,Full-time,59000,G5,15
+EMP0024,Riya Chandra,Female,35,Legal,Legal Manager,Bengaluru,2019-09-02,Full-time,121000,G8,20
+EMP0025,Siddharth Rao,Male,43,Operations,Senior Operations Manager,Mysuru,2015-06-22,Full-time,132000,G9,24
+EMP0026,Lavanya Murthy,Female,27,Sales,Sales Executive,Davanagere,2023-03-20,Full-time,48000,G4,9
+EMP0027,Atharv Singh,Male,33,Information Technology,Database Administrator,Bengaluru,2020-04-06,Full-time,115000,G8,17
+EMP0028,Maya D'Souza,Female,41,Human Resources,Senior HR Specialist,Mangaluru,2017-11-13,Full-time,89000,G7,22
+EMP0029,Harsh Vardhan,Male,29,Procurement,Vendor Analyst,Bengaluru,2022-09-05,Full-time,62000,G5,10
+EMP0030,Ira Banerjee,Female,34,Finance,Senior Accountant,Mysuru,2019-01-21,Full-time,82000,G6,18
+EMP0031,Dev Anand,Male,27,Customer Support,Support Executive,Hubballi,2023-08-14,Full-time,46000,G3,12
+EMP0032,Neha Suri,Female,36,Marketing,Brand Manager,Bengaluru,2018-06-18,Full-time,98000,G7,15
+EMP0033,Ritvik Arora,Male,25,Information Technology,Software Developer,Bengaluru,2024-01-08,Contract,58000,G4,6
+EMP0034,Shreya Patil,Female,31,Administration,Office Coordinator,Belagavi,2021-04-12,Full-time,55000,G4,13
+EMP0035,Varun Hegde,Male,38,Sales,Regional Sales Manager,Mysuru,2017-02-27,Full-time,126000,G8,20
+EMP0036,Tanvi Kapoor,Female,28,Legal,Legal Associate,Bengaluru,2022-11-21,Full-time,67000,G5,14
+EMP0037,Omkar Deshmukh,Male,45,Operations,Plant Manager,Dharwad,2014-08-11,Full-time,145000,G9,23
+EMP0038,Aisha Rahman,Female,30,Human Resources,HR Executive,Bengaluru,2021-12-06,Full-time,63000,G5,9
+EMP0039,Pranav Iyer,Male,32,Finance,Budget Analyst,Mangaluru,2020-05-25,Full-time,70000,G6,16
+EMP0040,Elena George,Female,39,Information Technology,Project Manager,Bengaluru,2017-07-17,Full-time,128000,G8,19
+EMP0041,Nakul Bansal,Male,26,Procurement,Procurement Executive,Tumakuru,2023-10-02,Contract,50000,G4,7
+EMP0042,Sia Narayan,Female,29,Sales,Account Executive,Bengaluru,2022-03-14,Full-time,60000,G5,12
+EMP0043,Vivek Prasad,Male,37,Customer Support,Support Manager,Mysuru,2018-09-24,Full-time,92000,G7,18
+EMP0044,Aanya Joshi,Female,24,Marketing,Marketing Associate,Bengaluru,2024-05-20,Intern,30000,G2,5
+EMP0045,Rahul Menon,Male,41,Administration,Senior Administrator,Mangaluru,2016-01-18,Full-time,85000,G7,21
+EMP0046,Kiara Shah,Female,33,Information Technology,Business Analyst,Bengaluru,2020-08-31,Full-time,88000,G7,14
+EMP0047,Samar Khanna,Male,30,Operations,Process Analyst,Hassan,2022-07-04,Full-time,65000,G5,11
+EMP0048,Mitali Sen,Female,35,Finance,Senior Financial Analyst,Bengaluru,2019-10-07,Full-time,91000,G7,17
